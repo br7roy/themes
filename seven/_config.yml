@@ -83,7 +83,7 @@ menu_top:
   tech:
     name: 技术
     title: 提高姿势水平
-    path: /tags/大数据
+    path: /categories/tech/
   archive:
     name: 归档
     title: 总览历史文章
