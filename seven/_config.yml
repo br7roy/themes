@@ -94,10 +94,10 @@ menu_top:
     path: javascript:void;
 
 menu_aside:
-  friends:
-    name: 我的小伙伴们
-    title: 友情链接
-    path: /friends
+  email:
+    name: email
+    title: 发邮件
+    path: mailto:br7roy@gmail.com
     icon: link
   about:
     name: 关于我
