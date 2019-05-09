@@ -137,5 +137,14 @@ jQuery(document).ready(function($){
     });
 
     hljs.initHighlightingOnLoad();
-    
+    var meta = "<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-139946518-1\"></script>\n" +
+        "<script>\n" +
+        "  window.dataLayer = window.dataLayer || [];\n" +
+        "  function gtag(){dataLayer.push(arguments);}\n" +
+        "  gtag('js', new Date());\n" +
+        "\n" +
+        "  gtag('config', 'UA-139946518-1');\n" +
+        "</script>"
+    $("head").prepend(meta)
+
 });
