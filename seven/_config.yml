@@ -64,8 +64,8 @@ disqus: TakFu
 # ---------------------------------------------------------------
 # Third Party Services
 # ---------------------------------------------------------------
-# google_analytics: UA-65656002-1
-# google_site_verification: WUNRfYChNMDduwLOFHG41TsVrre6BOaI7jKshEvtRts
+google_analytics: UA-139946518-1
+google_site_verification: YWK7gqpvve0eK9X6PxPKhIi7RJbdJsPQHzLHeev_8vo
 
 # Default: https://fonts.googleapis.com
 google_font: https://fonts.cat.net
