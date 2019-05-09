@@ -137,7 +137,5 @@ jQuery(document).ready(function($){
     });
 
     hljs.initHighlightingOnLoad();
-    // 加入googlesite
-    // var meta='<meta name="google-site-verification" content="YWK7gqpvve0eK9X6PxPKhIi7RJbdJsPQHzLHeev_8vo" />'
-    // $("head").prepend(meta)
+    
 });
