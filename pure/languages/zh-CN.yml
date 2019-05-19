@@ -39,6 +39,7 @@ pagination:
 widget:
   search: 搜索
   board: 公告
+  contact: 联系我
   archive: 归档
   tags: 标签
   categories: 分类

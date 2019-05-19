@@ -34,6 +34,7 @@ site:
   title: Tak's Blog # 页面title
   favicon: /favicon.png
   board: <p>个人博客，什么都写，欢迎评论，发邮件</p> <p>(评论需要国际互联网环境)</p> # 站点公告
+  contact: <p><img class="img-square img-rotate" src="/images/mingpian.png" width="200" height="200" title="" style=""></p>
   copyright: true # 底部版权信息
 
 # config
@@ -57,6 +58,7 @@ pagination:
 sidebar: right
 widgets:
   - board  
+  - contact
   - category
   - tag
   - tagcloud
@@ -186,9 +188,9 @@ profile:
   enabled: true # Whether to show profile bar
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: Takho
+  author: Tak
   author_title: Developer & Designer
-  author_description: 个人简介。
+  author_description: 咖啡，编码
   location: Shanghai, China
   follow: https://github.com/br7roy
   # Social Links
@@ -204,13 +206,12 @@ profile:
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
-    Git: ★★★☆☆
-    Gulp: ★★★☆☆
-    Javascript: ★★★☆☆
-    HTML+CSS: ★★★☆☆
-    Bootstrap: ★★★☆☆
-    ThinkPHP: ★★★☆☆
-    平面设计: ★★★☆☆
+    Python: ★★★☆☆
+    Go: ★★★☆☆
+    Scala: ★★☆☆☆
+    Shell: ★★★☆☆
+    Java: ★★★★★
+
   # My Personal Links
   links:
     Github: https://github.com/br7roy
@@ -220,11 +221,11 @@ profile:
 #    Behance: https://www.behance.net/cofess
   # My Personal Labels
   labels:
-    - 前端
-    - 前端开发
-    - 前端重构
-    - Web前端
-    - 网页重构
+    - 后端
+    - 后端开发
+    - 大数据
+    - 游戏开发
+    - 金融支付
   # My Personal Works
   works:
     name:
@@ -232,4 +233,4 @@ profile:
       date: 2016
   # My Personal Projects
   projects:
-    cofess/gulp-startpro: https://github.com/br7roy/zkha
+    br7roy/zkha: https://github.com/br7roy/zkha

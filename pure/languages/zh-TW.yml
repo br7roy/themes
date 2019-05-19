@@ -39,6 +39,7 @@ pagination:
 widget:
   search: 搜索
   board: 公告
+  contact: 聯係我
   archive: 歸檔
   tags: 標籤
   categories: 分類

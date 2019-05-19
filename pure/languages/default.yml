@@ -39,6 +39,7 @@ pagination:
 widget:
   search: Search
   board: Board
+  contact: Contact
   archive: Archive
   tags: Tags
   categories: Categories
