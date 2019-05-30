@@ -1620,6 +1620,17 @@ input[type="button"].btn-block {
   width: 100%;
 }
 
+.disqus-notice {
+    padding: 21px 28px 14px;
+    text-align: center;
+    margin-top: 30px;
+    font-size: large;
+}
+
+.disqus-notice > a {
+    margin-right: 5px;
+}
+
 .fade {
   opacity: 0;
   -webkit-transition: opacity 0.15s linear;

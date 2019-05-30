@@ -190,7 +190,7 @@ profile:
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Tak
   author_title: Developer & Designer
-  author_description: 咖啡，编码
+  author_description: <h4> <p>咖啡 编码 音乐</p> </h4> <p>本站由Travis-CLI持续集成</p>
   location: Shanghai, China
   follow: https://github.com/br7roy
   # Social Links
