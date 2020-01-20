@@ -49,7 +49,7 @@ auto_excerpt:
   length: 500
 
 # Set default keywords (Use a comma to separate)
-keywords: "Tak, Rust, blog, 博客, 独立博客, Hexo"
+keywords: "Tak, blog, 博客, 独立博客, Hexo"
 
 # ---------------------------------------------------------------
 # RSS Feed
