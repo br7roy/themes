@@ -5,7 +5,7 @@ menu:
   Categories: categories  # 分类
   Tags: tags  # 标签
   Repository: repository  # github repositories
-  Books: books  # 豆瓣书单
+  # Books: books  # 豆瓣书单
   # Links: links  # 友链
   About: about  # 关于
 
@@ -215,7 +215,7 @@ profile:
   # My Personal Links
   links:
     Github: https://github.com/br7roy
-    Blog: https://br7roy.github.io
+    Blog: https://takblog.ga
 #    微博: http://weibo.com/cofess
 #    花瓣: http://huaban.com/cofess
 #    Behance: https://www.behance.net/cofess
@@ -227,10 +227,10 @@ profile:
     - 游戏开发
     - 金融支付
   # My Personal Works
-  works:
-    name:
-      link: http://www.example.com
-      date: 2016
+  # works:
+    # name:
+      # link: http://www.example.com
+      # date: 2016
   # My Personal Projects
   projects:
     br7roy/zk-rmi: https://github.com/br7roy/zk-rmi
