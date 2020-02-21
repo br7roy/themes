@@ -21,6 +21,15 @@
   <% if (theme.plugins.baidu_analytics) { %>
     <meta name="baidu-site-verification" content="<%= theme.plugins.baidu_analytics %>" />
   <% } %>
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?9deb2c555a485ab3e9e1dfb5cd69f2ec";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
   <%
   var title = page.title;
 
