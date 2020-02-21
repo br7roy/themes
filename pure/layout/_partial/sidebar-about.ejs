@@ -48,8 +48,8 @@
           <% for(var i in theme.profile.works) { %>
           <li class="clearfix">
             <a href="<%- theme.profile.works[i].link %>" target="_blank" title="<%= i %>">
-              <span><%= i %></span>
-              <span class="pull-right text-muted"><%- theme.profile.works[i].date %></span>
+              <span><%= i %></span><br>
+              <span class="pull-left text-muted"><%- theme.profile.works[i].date %></span>
             </a>
           </li>
           <% } %>
