@@ -6,7 +6,7 @@ menu:
   Categories: categories  # 分类
   Tags: tags  # 标签
   Repository: repository  # github repositories
-#  Books: books  # 豆瓣书单
+  #  Books: books  # 豆瓣书单
 
   # Links: links  # 友链
   About: about  # 关于
@@ -19,7 +19,7 @@ menu_icons:
   categories: icon-folder
   tags: icon-tags
   repository: icon-project
-  movies: icon-starfish
+  movies: icon-google
   books: icon-book-fill
   links: icon-friendship
   about: icon-cup-fill
@@ -142,13 +142,13 @@ comment:
     pageSize: 10 # pagination size
     visitor: false # Article reading statistic https://valine.js.org/visitor.html
 
-# douban 豆瓣书单
-# Api：
+  # douban 豆瓣书单
+  # Api：
   # https://developers.douban.com/wiki/?title=book_v2 图书
   # https://developers.douban.com/wiki/?title=movie_v2 电影
-# books：
+  # books：
   # https://api.douban.com/v2/book/user/:name/collections?start=0&count=100 个人书单列表
-# movies:
+  # movies:
   # https://api.douban.com/v2/movie/in_theaters 正在上映的电影
   # https://api.douban.com/v2/movie/coming_soon 即将上映的电影
   # https://api.douban.com/v2/movie/subject/:id 单个电影信息
@@ -200,11 +200,11 @@ profile:
   social:
     links:
       github: https://github.com/br7roy
-#      weibo: http://weibo.com/cofess
+      #      weibo: http://weibo.com/cofess
       twitter: https://twitter.com/Gnah
       # facebook: /
       # dribbble: /
-#      behance: https://www.behance.net/cofess
+      #      behance: https://www.behance.net/cofess
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
@@ -219,9 +219,9 @@ profile:
   links:
     Github: https://github.com/br7roy
     Blog: https://takblog.ga
-#    微博: http://weibo.com/cofess
-#    花瓣: http://huaban.com/cofess
-#    Behance: https://www.behance.net/cofess
+  #    微博: http://weibo.com/cofess
+  #    花瓣: http://huaban.com/cofess
+  #    Behance: https://www.behance.net/cofess
   # My Personal Labels
   labels:
     - 后端
