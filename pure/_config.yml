@@ -193,7 +193,7 @@ profile:
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Tak
   author_title: RD
-  author_description: <h4> <p>咖啡 编码 音乐</p> </h4> <p>本站由Travis-CLI持续集成</p>
+  author_description: <div>Powered by <a href="https://www.netlify.com/" target="_blank"> Netlify </a> and <a href="https://www.travis-ci.org/" target="_blank">travis-ci</a> </div>
   location: Shanghai, China
   follow: https://github.com/br7roy
   # Social Links
