@@ -192,7 +192,8 @@ profile:
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Tak
-  author_title: RD
+  author_title:
+  email: br7roy@gmail.com
   author_description: <div>Powered by <a href="https://www.netlify.com/" target="_blank"> Netlify </a> and <a href="https://www.travis-ci.org/" target="_blank">travis-ci</a> </div>
   location: Shanghai, China
   follow: https://github.com/br7roy
