@@ -207,6 +207,7 @@ profile:
       # dribbble: /
       #      behance: https://www.behance.net/cofess
       rss: atom.xml
+      email: mailto:br7roy@gmail.com
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
