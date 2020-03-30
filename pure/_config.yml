@@ -234,7 +234,7 @@ profile:
   # My Personal Works
   works:
     一个基于Go语言的影单系统:
-      link: https://www.takfu.tk/movie
+      link: https://movie.takfu.tk
       date: 2016构建,cloudflare托管
   # My Personal Projects
   projects:
