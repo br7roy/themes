@@ -220,7 +220,7 @@ profile:
   # My Personal Links
   links:
     Github: https://github.com/br7roy
-    Blog: https://takblog.ga
+    Blog: https://blog.takfu.tk
   #    微博: http://weibo.com/cofess
   #    花瓣: http://huaban.com/cofess
   #    Behance: https://www.behance.net/cofess
@@ -238,4 +238,4 @@ profile:
       date: 2016构建,cloudflare托管
   # My Personal Projects
   projects:
-    br7roy/zk-rmi: https://github.com/br7roy/zk-rmi
+    br7roy/zk-rmi: https://github.com/br7roy/movie-system
