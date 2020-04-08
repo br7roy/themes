@@ -244,4 +244,4 @@ profile:
 
 add:
   movie: https://movie.takfu.tk
-  nas: http://nas.takfu.tk:23333
+  nas: https://nas.takfu.tk:33333
