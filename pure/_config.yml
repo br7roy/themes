@@ -1,14 +1,15 @@
 # menu
 menu:
   Home: .
-  Movies: movies
+
   Archives: archives  # 归档
   Categories: categories  # 分类
   Tags: tags  # 标签
   Repository: repository  # github repositories
   #  Books: books  # 豆瓣书单
-
   # Links: links  # 友链
+  Nas: nas
+  Movies: movies
   About: about  # 关于
 
 # Enable/Disable menu icons
@@ -23,6 +24,7 @@ menu_icons:
   books: icon-book-fill
   links: icon-friendship
   about: icon-cup-fill
+  nas: icon-coding
 
 # rss
 rss: /atom.xml
@@ -194,7 +196,7 @@ profile:
   author: Tak
   author_title:
   email: br7roy@gmail.com
-  author_description: <div>Powered by <a href="https://www.netlify.com/" target="_blank"> Netlify </a> and <a href="https://www.travis-ci.org/" target="_blank">travis-ci</a> </div>
+  author_description: <div>Powered by <a href="https://www.netlify.com/" target="_blank"> Netlify </a> and <a href="https://www.travis-ci.org/" target="_blank">Travis-ci</a> </div>
   location: Shanghai, China
   follow: https://github.com/br7roy
   # Social Links
@@ -239,3 +241,7 @@ profile:
   # My Personal Projects
   projects:
     br7roy/zk-rmi: https://github.com/br7roy/movie-system
+
+add:
+  movie: https://movie.takfu.tk
+  nas: http://nas.takfu.tk:23333

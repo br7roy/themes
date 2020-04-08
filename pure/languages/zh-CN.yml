@@ -5,9 +5,10 @@ menu:
   Tags: 标签
   Repository: 项目
   Books: 书单
-  Movies: 电影
-  Links: 友链
+  Nas: 媒体中心
+  Movies: MovieX
   About: 关于
+  Links: 友链
 nav:
   all: All
   older: 下一篇
