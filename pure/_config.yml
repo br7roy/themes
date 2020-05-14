@@ -40,7 +40,7 @@ site:
     url: ../images/logo.png
   title: Tak's Blog # 页面title
   favicon: /favicon.png
-  board: <p>个人博客，什么都写，欢迎评论，发邮件</p> <p>(评论需要国际互联网环境)</p> # 站点公告
+  board: <p>(评论需要国际互联网环境)</p> # 站点公告
   contact: <p><img class="img-square img-rotate" src="/images/mingpian.png" width="200" height="200" title="" style=""></p>
   copyright: true # 底部版权信息
 
