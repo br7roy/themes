@@ -8,6 +8,7 @@ menu:
   Repository: repository  # github repositories
   #  Books: books  # 豆瓣书单
   # Links: links  # 友链
+  Git: git
   Nas: nas
   Movies: movies
   About: about  # 关于
@@ -25,6 +26,7 @@ menu_icons:
   links: icon-friendship
   about: icon-cup-fill
   nas: icon-coding
+  git: icon-gitlab
 
 # rss
 rss: /atom.xml
@@ -245,3 +247,4 @@ profile:
 add:
   movie: https://movie.takfu.tk
   nas: https://nas.takfu.tk:33333
+  git: http://git.takfu.tk:1782

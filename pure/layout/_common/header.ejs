@@ -36,6 +36,8 @@
                         <a href="<%= ma.movie %>" target="_blank">
                             <% } else if (theme.menu[i] == 'nas') { %>
                             <a href="<%= ma.nas %>" target="_blank">
+                                <% } else if (theme.menu[i] == 'git') { %>
+                                <a href="<%= ma.git %>" target="_blank">
                                 <% } else { %>
                                 <a href="<%- url_for(theme.menu[i]) %>">
                                     <% } %>
