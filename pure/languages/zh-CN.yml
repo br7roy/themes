@@ -40,7 +40,7 @@ pagination:
   pageof: Page %d of %s
 widget:
   search: 搜索
-  board: 公告
+  board: " "
   contact: 联系我
   archive: 归档
   tags: 标签

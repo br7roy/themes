@@ -38,9 +38,9 @@ site:
     width: 40
     height: 40
     url: ../images/logo.png
-  title: Tak's Blog # 页面title
+  title: 马迭尔的水盆羊肉 # 页面title
   favicon: /favicon.png
-  board: <p>评论需要国际互联网环境</p> # 站点公告
+  board: <span>漫江碧透</span><br><span>百轲争流</span><br><span>万类霜天竞自由</span>
   contact: <p><img class="img-square img-rotate" src="/images/mingpian.png" width="200" height="200" title="" style=""></p>
   copyright: true # 底部版权信息
 
@@ -196,7 +196,7 @@ profile:
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Tak
-  author_title:
+#  author_title: <span>漫江碧透</span><br><span>百轲争流</span><br><span>万类霜天竞自由</span>
   email: br7roy@gmail.com
   author_description: <div>Powered by <a href="https://www.netlify.com/" target="_blank"> Netlify </a> and <a href="https://www.travis-ci.org/" target="_blank">Travis-ci</a> </div>
   location: Shanghai, China
