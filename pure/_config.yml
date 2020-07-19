@@ -247,4 +247,4 @@ profile:
 add:
   movie: https://movie.takfu.tk
   nas: https://nas.takfu.tk:33333
-  git: https://git.takfu.tk:17443
+  git: https://git.takfu.tk:17443/root/spark-operation-collect
