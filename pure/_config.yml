@@ -40,7 +40,9 @@ site:
     url: ../images/logo.png
   title: 马迭尔的水盆羊肉 # 页面title
   favicon: /favicon.png
-  board: <span>漫江碧透</span><br><span>百轲争流</span><br><span>万类霜天竞自由</span>
+  board: <span style="color:#FFF;font-weight:bold;"> CSS ++ </p>
+#  board: <span style="margin:-5px 0 0 0;color:#666;font-size:16px;"> 无人访问之无聊博客++ </span>
+  #  board: <span>漫江碧透</span><br><span>百轲争流</span><br><span>万类霜天竞自由</span>
   contact: <p><img class="img-square img-rotate" src="/images/mingpian.png" width="200" height="200" title="" style=""></p>
   copyright: true # 底部版权信息
 
@@ -195,7 +197,8 @@ profile:
   enabled: true # Whether to show profile bar
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: Tak
+#  author: Tak
+  author: 无人访问之无聊博客 ++
 #  author_title: <span>漫江碧透</span><br><span>百轲争流</span><br><span>万类霜天竞自由</span>
   email: br7roy@gmail.com
   author_description: <div>Powered by <a href="https://www.netlify.com/" target="_blank"> Netlify </a> and <a href="https://www.travis-ci.org/" target="_blank">Travis-ci</a> </div>
