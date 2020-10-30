@@ -9226,3 +9226,53 @@ body.okayNav-loaded {
     max-height: 200px;
   }
 }
+
+
+.hitokoto-title {
+  text-align: center;
+  font-size: 12px;
+}
+
+#hitokoto {
+  text-align: left;
+  font-family: "Microsoft YaHei";
+  font-size: 11px;
+}
+
+#hitofrom {
+  float: right;
+  font-family: "Microsoft YaHei";
+  font-size: 10px;
+}
+
+.word-click {
+  position: relative;
+  width: 60px;
+  height: 30px;
+  bottom: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  /*font-size: 1em;*/
+  background-color: rgba(128,128,128,.2);
+  color: inherit;
+  text-transform: uppercase;
+  text-decoration: none;
+  box-shadow: none;
+
+  background-attachment: scroll;
+
+
+  /*背景填充方法*/
+  background-clip: padding-box;
+
+  /*阴影方法*/
+  /*内阴影 inset*/
+
+  text-shadow: 5px 5px 10px #247a95;
+
+}
+.word-click:hover{
+  transform: rotateX(37deg) translate(3px,3px) scale(2) skew(22deg);
+  cursor:pointer;
+}
