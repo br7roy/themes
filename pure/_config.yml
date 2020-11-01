@@ -40,7 +40,7 @@ site:
     url: ../images/logo.png
   title: 马迭尔的水盆羊肉 # 页面title
   favicon: /favicon.png
-  board: <div><div class="hitokoto-title"><i class="fa fa-paragraph"></i><b>鸡汤</b></div><br><div id="hitokoto">:D Loading...</div><i id="hitofrom">:D 获取中...</i><br></div><div class="word-click"><a onclick="refresh1Word()"><b>手气不错</b></a></div>
+  board: <div><div class="hitokoto-title"><i class="fa fa-paragraph"></i><b>鸡汤</b></div><br><div id="hitokoto"> Loading...</div><i id="hitofrom"> Loading...</i><br></div><div class="word-click"><a onclick="refresh1Word()"><b>手气不错</b></a></div>
 #  board: <span style="color:#FFF;font-weight:bold;"> CSS ++ </p>
 #  board: <p id="hitokoto">loading...</p>
 #  board: <span style="margin:-5px 0 0 0;color:#666;font-size:16px;"> 无人访问之无聊博客++ </span>
