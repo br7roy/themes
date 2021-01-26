@@ -202,7 +202,7 @@ profile:
 #  author: Tak
   author: 无人访问之无聊博客 ++
 #  author_title: <span>漫江碧透</span><br><span>百轲争流</span><br><span>万类霜天竞自由</span>
-  email: br7roy@gmail.com
+  email: admin@takmail.tk
   author_description: <div>Powered by <a href="https://www.netlify.com/" target="_blank"> Netlify </a> and <a href="https://www.travis-ci.org/" target="_blank">Travis-ci</a> </div>
   location: Shanghai, China
   follow: https://github.com/br7roy
@@ -216,7 +216,7 @@ profile:
       # dribbble: /
       #      behance: https://www.behance.net/cofess
       rss: atom.xml
-      email: mailto:br7roy@gmail.com
+      email: mailto:admin@takmail.tk
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
