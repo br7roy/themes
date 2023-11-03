@@ -202,7 +202,7 @@ profile:
 #  author: Tak
   author: 无人访问之无聊博客 ++
 #  author_title: <span>漫江碧透</span><br><span>百轲争流</span><br><span>万类霜天竞自由</span>
-  email: admin@takfu.tk
+  email: admin@takfu.cf
   author_description: <div>Powered by <a href="https://www.netlify.com/" target="_blank"> Netlify </a> and <a href="https://www.travis-ci.org/" target="_blank">Travis-ci</a> </div>
   location: Shanghai, China
   follow: https://github.com/br7roy
@@ -216,7 +216,7 @@ profile:
       # dribbble: /
       #      behance: https://www.behance.net/cofess
       rss: atom.xml
-      email: mailto:admin@takfu.tk
+      email: mailto:admin@takfu.cf
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
@@ -229,7 +229,7 @@ profile:
   # My Personal Links
   links:
     Github: https://github.com/br7roy
-    Blog: https://blog.takfu.tk
+    Blog: https://blog.takfu.cf
   #    微博: http://weibo.com/cofess
   #    花瓣: http://huaban.com/cofess
   #    Behance: https://www.behance.net/cofess
@@ -243,13 +243,13 @@ profile:
   # My Personal Works
   works:
     一个基于Go语言的影单系统:
-      link: https://movie.takfu.tk
+      link: https://movie.takfu.cf
       date: 2016构建,cloudflare托管
   # My Personal Projects
   projects:
     br7roy/zk-rmi: https://github.com/br7roy/movie-system
 
 add:
-  movie: https://movie.takfu.tk
-  nas: https://tv.takfu.tk:33333
-  git: https://git.takfu.tk:17443/open
+  movie: https://movie.takfu.cf
+  nas: https://tv.takfu.cf:33333
+  git: https://git.takfu.cf:17443/open
